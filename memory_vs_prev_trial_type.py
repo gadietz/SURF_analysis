@@ -3,7 +3,7 @@ import pandas as pd
 memory = pd.read_csv('data_memory.csv')
 control = pd.read_csv('data_control.csv')
 
-#function to find the trial tyoes for the previous trial givne the pid and picid
+#function to find the trial types for the previous trial given the pid and picid
 def find_prev_trial (mem_pid, mem_picid):
     for i in range (1, len(control['pid'])):
         if control['pid'][i] == mem_pid:
