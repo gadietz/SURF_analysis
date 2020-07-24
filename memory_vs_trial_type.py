@@ -38,11 +38,12 @@ pid_list = memory.pid.unique().tolist()
 memory = memory.values.tolist()
 control = control.values.tolist()
 
-#function to find the trial tyoes for the previous trial given the pid and picid
-def find_prev_trial (mem_pid, mem_picid):
+#function to find the trial tyoes for the current trial given the pid and picid
+def find_curr_trial (mem_pid, mem_picid):
     for i in range (1, len(control)):
-        if control[i][0] == mem_pid and control[i][2] == mem_picid and i != 0:
-                return (control[i-1][5], control[i-1][6])
+        if control[i][0] == mem_pid:
+            if control[i][2] == mem_picid:
+                return (control[i][5], control[i][6])
     
     return('-','-') #if this fails for any reason
 
@@ -64,7 +65,7 @@ def subject_accuracy(curr_ID):
     #find memory accuracy in relation to previous trial type
     for i in range (0, len(memory)):
         if (memory[i][0] == curr_ID) and (memory[i][5] == "old"):
-            prev_conditions = find_prev_trial(memory[i][0], memory[i][2])
+            prev_conditions = find_curr_trial(memory[i][0], memory[i][2])
             response = memory[i][10]
             if prev_conditions[0] != '-':
                 if prev_conditions[0] == "congruent":
@@ -89,7 +90,6 @@ ANOVA_list = []
 #get accuracies for each participant and then put into all_accuracies 
 for ID in pid_list:
     individ_acc = subject_accuracy(ID)
-    
     ANOVA_list.append([ID, 'go', 'congruent', individ_acc[0]])
     ANOVA_list.append([ID, 'nogo', 'congruent', individ_acc[1]])
     ANOVA_list.append([ID, 'go', 'incongruent', individ_acc[2]])
@@ -104,11 +104,11 @@ data = pd.DataFrame(ANOVA_list, columns = ['pid', 'response', 'congruency', 'Sbj
 gpResult = data.groupby(['response','congruency']).SbjACC.mean().reset_index()
 print(gpResult)
 
-prev_ANOVA = AnovaRM(data, 'SbjACC', 'pid', within = ['response', 'congruency'])
-prev_ANOVA = prev_ANOVA.fit()
-print(prev_ANOVA)    
+curr_ANOVA = AnovaRM(data, 'SbjACC', 'pid', within = ['response', 'congruency'])
+curr_ANOVA = curr_ANOVA.fit()
+print(curr_ANOVA)
         
- 
+#Overall Analysis
 all_accuracies_average = []
 
 for i in range(len(all_accuracies)):
@@ -116,18 +116,19 @@ for i in range(len(all_accuracies)):
     
 print(all_accuracies_average)
 
+all_accuracies_average = [all_accuracies_average[0], all_accuracies_average[2], all_accuracies_average[1], all_accuracies_average[3]]
 #plot the relationship
 
-labels = ('congruent go', 'congruent nogo', 'incongruent go', 'incongruent nogo')
+labels = (' congruent\ngo ',  ' incongruent\ngo ', ' congruent\nnogo ', ' incongruent\nnogo ')
 y_pos = np.arange(len(labels))
 
-plt.figure(1)
+fig = plt.figure(1)
 '''
 plt.bar(y_pos, all_accuracies_average)
 plt.xticks(y_pos, labels)
 plt.ylabel("Memory Accuracy")
-plt.xlabel("N-1 Trial Type")
-plt.title("Memory Accuracy vs. N-1 Trial Type")
+plt.xlabel("Trial Type")
+plt.title("Memory Accuracy vs. Trial Type")
 for i in range(len(all_accuracies_average)):
     plt.text(x=y_pos[i] - 0.12, y=all_accuracies_average[i] + 0.01, \
              s=round(all_accuracies_average[i], 3), size=10)
@@ -135,16 +136,16 @@ plt.show()
 
 plt.figure(2)
 '''
-plt.bar(y_pos, all_accuracies_average)
+plt.bar(y_pos, all_accuracies_average, color="gold")
 plt.xticks(y_pos, labels)
 plt.ylabel("Memory Accuracy")
-plt.xlabel("N-1 Trial Type")
-plt.title("Memory Accuracy vs. N-1 Trial Type")
-plt.ylim(.5, .6)
+plt.xlabel("Trial Type")
+plt.title("Memory Accuracy vs. Trial Type")
+plt.ylim(.4, .7)
 for i in range(len(all_accuracies_average)):
     plt.text(x=y_pos[i] - 0.12, y=all_accuracies_average[i] + 0.01, \
              s=round(all_accuracies_average[i], 3), size=10)
 plt.show()
-
+fig.savefig("memory_vs_trial_type.png")
 
 

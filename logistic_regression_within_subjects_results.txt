@@ -1,0 +1,899 @@
+
+SUBJECT #1.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5972222222222222
+Intercept:  0.30659952700861554
+Coefficients: 
+   Congruency: 0.4143078162271998
+   Response: -1.3742445662707001
+   Previous Congruency: 0.5566643087086602
+   Previous Response: -0.4511393679631191
+Confusion Matrix:  [[17, 10], [19, 26]]
+
+SUBJECT #2.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6197183098591549
+Intercept:  -1.2735564386195216e-05
+Coefficients: 
+   Congruency: -0.024798822644864136
+   Response: 0.014857692592808827
+   Previous Congruency: 0.010437536975752264
+   Previous Response: -0.0017397176607825242
+Confusion Matrix:  [[29, 12], [15, 15]]
+
+SUBJECT #3.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6578947368421053
+Intercept:  1.0486028003408046
+Coefficients: 
+   Congruency: -0.947662581864761
+   Response: 0.3333981206260391
+   Previous Congruency: -0.9842247078801144
+   Previous Response: -1.3307569829684236
+Confusion Matrix:  [[23, 10], [16, 27]]
+
+SUBJECT #4.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6571428571428571
+Intercept:  -1.4824918064576541e-06
+Coefficients: 
+   Congruency: -5.440228756628991e-05
+   Response: 9.14062189633586e-05
+   Previous Congruency: 5.680370008656917e-05
+   Previous Response: 2.5928326643569784e-05
+Confusion Matrix:  [[7, 18], [6, 39]]
+
+SUBJECT #6.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.704225352112676
+Intercept:  0.04286556316550947
+Coefficients: 
+   Congruency: -0.29394970668333187
+   Response: 0.4811097481783111
+   Previous Congruency: 0.2808498448551274
+   Previous Response: -0.4466954814607516
+Confusion Matrix:  [[14, 9], [12, 36]]
+
+SUBJECT #7.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5675675675675675
+Intercept:  -0.2673737849601983
+Coefficients: 
+   Congruency: 0.5862321285345922
+   Response: 0.16416754883920587
+   Previous Congruency: -0.4505438129285056
+   Previous Response: 0.3562947598486066
+Confusion Matrix:  [[26, 22], [10, 16]]
+
+SUBJECT #8.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.7027027027027027
+Intercept:  -1.099557556706688
+Coefficients: 
+   Congruency: 1.5687050998673147
+   Response: 1.4277378828234337
+   Previous Congruency: 0.5590541971996739
+   Previous Response: 0.014802384328733886
+Confusion Matrix:  [[12, 10], [12, 40]]
+
+SUBJECT #9.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.589041095890411
+Intercept:  0.008527884348127363
+Coefficients: 
+   Congruency: 0.04365182196928029
+   Response: -0.010525086215896793
+   Previous Congruency: 0.11119280617499841
+   Previous Response: -0.12366558407224847
+Confusion Matrix:  [[12, 8], [22, 31]]
+
+SUBJECT #10.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5733333333333334
+Intercept:  3.5824596974646516e-07
+Coefficients: 
+   Congruency: -0.00011942205619370654
+   Response: 8.408485649452604e-06
+   Previous Congruency: -4.803999819938621e-06
+   Previous Response: 8.275616068635439e-05
+Confusion Matrix:  [[22, 13], [19, 21]]
+
+SUBJECT #11.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6438356164383562
+Intercept:  2.2713856810678963
+Coefficients: 
+   Congruency: -0.7997282831998669
+   Response: -2.7213432441633625
+   Previous Congruency: -1.1598108349938865
+   Previous Response: -1.7157072702891791
+Confusion Matrix:  [[23, 12], [14, 24]]
+
+SUBJECT #12.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5769230769230769
+Intercept:  -0.09700793302123978
+Coefficients: 
+   Congruency: -0.12491604701444312
+   Response: -0.17445626173397094
+   Previous Congruency: 0.9670903113410894
+   Previous Response: -0.2570854142926063
+Confusion Matrix:  [[16, 10], [23, 29]]
+
+SUBJECT #13.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.618421052631579
+Intercept:  0.0001100654674462536
+Coefficients: 
+   Congruency: 4.1955984800838636e-05
+   Response: 0.00010775005370448162
+   Previous Congruency: -0.00016273376932577344
+   Previous Response: -0.0001296219248366
+Confusion Matrix:  [[11, 18], [11, 36]]
+
+SUBJECT #14.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5352112676056338
+Intercept:  2.7795922195327366e-05
+Coefficients: 
+   Congruency: 0.00011905493444545701
+   Response: 2.9759963860995423e-05
+   Previous Congruency: -6.986914785486026e-05
+   Previous Response: -0.000133840991944053
+Confusion Matrix:  [[13, 10], [23, 25]]
+
+SUBJECT #15.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.581081081081081
+Intercept:  -0.027586805815256646
+Coefficients: 
+   Congruency: 0.07720799649707503
+   Response: -0.40159761809154376
+   Previous Congruency: 0.19991735822559564
+   Previous Response: 0.23981950632698787
+Confusion Matrix:  [[16, 6], [25, 27]]
+
+SUBJECT #16.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.7432432432432432
+Intercept:  0.057976007694512784
+Coefficients: 
+   Congruency: -0.6343561526992106
+   Response: 0.8984042467960137
+   Previous Congruency: 0.10028378990265656
+   Previous Response: -0.16679592754379352
+Confusion Matrix:  [[11, 5], [14, 44]]
+
+SUBJECT #17.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.547945205479452
+Intercept:  0.0001551527305323719
+Coefficients: 
+   Congruency: -2.3786472411251935e-05
+   Response: 0.00011684802525857795
+   Previous Congruency: -1.0555413807043986e-05
+   Previous Response: -0.0001047802607657035
+Confusion Matrix:  [[0, 33], [0, 40]]
+
+SUBJECT #18.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5857142857142857
+Intercept:  1.637057210774109
+Coefficients: 
+   Congruency: -1.9002788090398501
+   Response: -1.490446541828836
+   Previous Congruency: -1.216000306945752
+   Previous Response: 0.015907088872703763
+Confusion Matrix:  [[13, 7], [22, 28]]
+
+SUBJECT #19.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6176470588235294
+Intercept:  0.003400590680033571
+Coefficients: 
+   Congruency: -0.000628945611177871
+   Response: -0.013629823614943406
+   Previous Congruency: -0.009435584283840283
+   Previous Response: 0.011192517563026045
+Confusion Matrix:  [[20, 14], [12, 22]]
+
+SUBJECT #20.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.589041095890411
+Intercept:  -0.1642523885568494
+Coefficients: 
+   Congruency: -0.17251944381829468
+   Response: 0.49261724104607046
+   Previous Congruency: 0.2550344282548697
+   Previous Response: -0.11152151157428265
+Confusion Matrix:  [[25, 16], [14, 18]]
+
+SUBJECT #22.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.581081081081081
+Intercept:  -0.015312774524648257
+Coefficients: 
+   Congruency: -0.1004108424922647
+   Response: -0.0033414431356690705
+   Previous Congruency: 0.061008428135190175
+   Previous Response: 0.09280264613707483
+Confusion Matrix:  [[19, 11], [20, 24]]
+
+SUBJECT #23.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6164383561643836
+Intercept:  -0.15302015283930423
+Coefficients: 
+   Congruency: -0.9309089644131012
+   Response: -0.12537286370903403
+   Previous Congruency: 1.1522954759152337
+   Previous Response: 0.35134077458757834
+Confusion Matrix:  [[12, 15], [13, 33]]
+
+SUBJECT #24.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6301369863013698
+Intercept:  -0.120492759074617
+Coefficients: 
+   Congruency: 0.2813767072278689
+   Response: 0.0333423136852431
+   Previous Congruency: -0.28388055700407444
+   Previous Response: 0.35408444197958927
+Confusion Matrix:  [[20, 13], [14, 26]]
+
+SUBJECT #25.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5866666666666667
+Intercept:  2.616759456948824e-05
+Coefficients: 
+   Congruency: -0.00014570580935611077
+   Response: -5.801180541588367e-05
+   Previous Congruency: -0.0001965463739992134
+   Previous Response: -8.224904682784762e-05
+Confusion Matrix:  [[40, 0], [31, 4]]
+
+SUBJECT #26.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6666666666666666
+Intercept:  -0.3797987883223662
+Coefficients: 
+   Congruency: 0.4333811524483952
+   Response: 0.6351489101218913
+   Previous Congruency: 0.16297083014542796
+   Previous Response: -0.10858896824982504
+Confusion Matrix:  [[24, 11], [13, 24]]
+
+SUBJECT #27.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6212121212121212
+Intercept:  7.085085688129232e-05
+Coefficients: 
+   Congruency: -7.338211068744029e-05
+   Response: 0.00019044730535973967
+   Previous Congruency: 3.5517053975614253e-05
+   Previous Response: -4.993646763362757e-05
+Confusion Matrix:  [[6, 22], [3, 35]]
+
+SUBJECT #28.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6575342465753424
+Intercept:  0.13672093589108464
+Coefficients: 
+   Congruency: -0.58682867594936
+   Response: -0.24610702648811186
+   Previous Congruency: 0.47366863724558045
+   Previous Response: -0.08419223577492903
+Confusion Matrix:  [[26, 12], [13, 22]]
+
+SUBJECT #29.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6621621621621622
+Intercept:  0.00010319981755161416
+Coefficients: 
+   Congruency: -0.0001928548654611451
+   Response: 0.00019762724813577622
+   Previous Congruency: 6.853178559110669e-05
+   Previous Response: 1.8957530847778202e-06
+Confusion Matrix:  [[9, 20], [5, 40]]
+
+SUBJECT #30.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6666666666666666
+Intercept:  0.0013898653559276087
+Coefficients: 
+   Congruency: 0.11582441410495678
+   Response: 0.07462642788328203
+   Previous Congruency: -0.07775242977210088
+   Previous Response: -0.08382204433016095
+Confusion Matrix:  [[17, 7], [16, 29]]
+
+SUBJECT #31.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.4507042253521127
+Intercept:  -2.3809436808958065e-05
+Coefficients: 
+   Congruency: 3.5881537257308036e-05
+   Response: 5.504243085857859e-05
+   Previous Congruency: -3.9824717619364265e-05
+   Previous Response: -0.00011327058194545595
+Confusion Matrix:  [[21, 4], [35, 11]]
+
+SUBJECT #32.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.7014925373134329
+Intercept:  0.04903641655110165
+Coefficients: 
+   Congruency: -0.060227110781610076
+   Response: 0.1841480786976433
+   Previous Congruency: -0.14690104993752232
+   Previous Response: -0.08179705544808055
+Confusion Matrix:  [[16, 7], [13, 31]]
+
+SUBJECT #33.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6
+Intercept:  -0.3880184735984149
+Coefficients: 
+   Congruency: 0.49557472907494743
+   Response: 0.1553400599816769
+   Previous Congruency: 0.2427646770825888
+   Previous Response: 0.24527472104530332
+Confusion Matrix:  [[19, 14], [14, 23]]
+
+SUBJECT #34.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6285714285714286
+Intercept:  1.0746342180414294
+Coefficients: 
+   Congruency: -1.3369421681732128
+   Response: -0.5571065983635489
+   Previous Congruency: -0.33171315008673663
+   Previous Response: -0.8540568738668379
+Confusion Matrix:  [[22, 12], [14, 22]]
+
+SUBJECT #35.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6428571428571429
+Intercept:  -0.3118641758807646
+Coefficients: 
+   Congruency: -0.34172780810984305
+   Response: 2.166957012452628
+   Previous Congruency: -0.17957727667806225
+   Previous Response: -0.22567933135304355
+Confusion Matrix:  [[18, 7], [18, 27]]
+
+SUBJECT #36.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6266666666666667
+Intercept:  0.311059113673808
+Coefficients: 
+   Congruency: -0.6415711370133492
+   Response: -0.05934987304701957
+   Previous Congruency: -0.13887042386369478
+   Previous Response: -0.1390276704117975
+Confusion Matrix:  [[24, 15], [13, 23]]
+
+SUBJECT #37.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.64
+Intercept:  0.018360031262578753
+Coefficients: 
+   Congruency: 0.44657782223307796
+   Response: 0.41261408654686155
+   Previous Congruency: -0.2243452424481667
+   Previous Response: -0.6011567812206627
+Confusion Matrix:  [[19, 12], [15, 29]]
+
+SUBJECT #39.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.625
+Intercept:  -0.0743544164770595
+Coefficients: 
+   Congruency: -0.3893515577026214
+   Response: 0.7056812673840219
+   Previous Congruency: -0.028326474652455018
+   Previous Response: 0.06214632159728517
+Confusion Matrix:  [[16, 8], [19, 29]]
+
+SUBJECT #40.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5714285714285714
+Intercept:  0.40948703139951936
+Coefficients: 
+   Congruency: -0.8260143694469394
+   Response: 0.3476218638930388
+   Previous Congruency: -0.4605101070127749
+   Previous Response: -0.366134762069892
+Confusion Matrix:  [[23, 16], [14, 17]]
+
+SUBJECT #41.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5277777777777778
+Intercept:  0.0008138805283357003
+Coefficients: 
+   Congruency: 0.008997193436219556
+   Response: -0.005407813872002475
+   Previous Congruency: -0.008348463957993145
+   Previous Response: 0.001854130098533865
+Confusion Matrix:  [[22, 19], [15, 16]]
+
+SUBJECT #42.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6081081081081081
+Intercept:  -1.0592459759128872
+Coefficients: 
+   Congruency: 0.828910270789287
+   Response: 0.7700061417982936
+   Previous Congruency: 0.6576783541147787
+   Previous Response: 0.8457072184151859
+Confusion Matrix:  [[14, 16], [13, 31]]
+
+SUBJECT #43.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6176470588235294
+Intercept:  -0.010197194673277678
+Coefficients: 
+   Congruency: -0.0559225870530232
+   Response: -0.027600973171676518
+   Previous Congruency: 0.018394554500166537
+   Previous Response: 0.08327071348765493
+Confusion Matrix:  [[17, 10], [16, 25]]
+
+SUBJECT #44.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.4189189189189189
+Intercept:  -3.507566297389792e-05
+Coefficients: 
+   Congruency: -0.0001819611806505429
+   Response: 0.00015568653666659028
+   Previous Congruency: -4.867370258022514e-06
+   Previous Response: -9.55831263566924e-05
+Confusion Matrix:  [[19, 2], [41, 12]]
+
+SUBJECT #45.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6029411764705882
+Intercept:  -0.0006251611672800755
+Coefficients: 
+   Congruency: -0.005656572933138147
+   Response: 0.016963888487998905
+   Previous Congruency: -0.010797590557877754
+   Previous Response: 0.0009707652119792595
+Confusion Matrix:  [[19, 15], [12, 22]]
+
+SUBJECT #46.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5942028985507246
+Intercept:  -0.1402748441620703
+Coefficients: 
+   Congruency: -0.022643643987149884
+   Response: 0.3631977789754501
+   Previous Congruency: 0.2298412900338642
+   Previous Response: -0.12946527844027686
+Confusion Matrix:  [[21, 18], [10, 20]]
+
+SUBJECT #47.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5694444444444444
+Intercept:  -0.2581045089860039
+Coefficients: 
+   Congruency: 0.468897880561495
+   Response: 0.7365682032273635
+   Previous Congruency: 0.07634458050162912
+   Previous Response: -0.39105696123516753
+Confusion Matrix:  [[14, 8], [23, 27]]
+
+SUBJECT #48.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6133333333333333
+Intercept:  0.913573881449441
+Coefficients: 
+   Congruency: -0.5385566938682027
+   Response: -0.5779450854693425
+   Previous Congruency: -1.4897867657792976
+   Previous Response: -0.08997310625433169
+Confusion Matrix:  [[22, 12], [17, 24]]
+
+SUBJECT #49.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.64
+Intercept:  0.23175771787553082
+Coefficients: 
+   Congruency: -0.2800409744159861
+   Response: 0.6071973405736286
+   Previous Congruency: -0.4857158744958655
+   Previous Response: -0.48698668321064004
+Confusion Matrix:  [[24, 14], [13, 24]]
+
+SUBJECT #50.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.7285714285714285
+Intercept:  -0.3236147345340287
+Coefficients: 
+   Congruency: -0.3166938408022006
+   Response: 1.1319813267219758
+   Previous Congruency: 0.12936962800658786
+   Previous Response: -0.03787703723908151
+Confusion Matrix:  [[24, 10], [9, 27]]
+
+SUBJECT #51.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6575342465753424
+Intercept:  0.0345052933930278
+Coefficients: 
+   Congruency: -0.051906408452441564
+   Response: 0.21412147576858037
+   Previous Congruency: -0.5123100198976337
+   Previous Response: 0.2925795116426518
+Confusion Matrix:  [[12, 9], [16, 36]]
+
+SUBJECT #52.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.7
+Intercept:  0.3682929890233697
+Coefficients: 
+   Congruency: -0.9234726441960843
+   Response: 4.119459128400799
+   Previous Congruency: -0.6559025080639542
+   Previous Response: -1.1336650245673818
+Confusion Matrix:  [[12, 1], [20, 37]]
+
+SUBJECT #53.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6351351351351351
+Intercept:  0.3378519215357333
+Coefficients: 
+   Congruency: -0.13102660473270922
+   Response: -0.700534544347615
+   Previous Congruency: -0.28649732214284174
+   Previous Response: 0.07528846503352725
+Confusion Matrix:  [[20, 11], [16, 27]]
+
+SUBJECT #54.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5616438356164384
+Intercept:  3.3678974783521925e-05
+Coefficients: 
+   Congruency: 9.156416183411652e-05
+   Response: -0.00010910135495238515
+   Previous Congruency: 2.1489485185977845e-06
+   Previous Response: -2.2698859689847022e-05
+Confusion Matrix:  [[8, 23], [9, 33]]
+
+SUBJECT #55.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6103896103896104
+Intercept:  0.17133845843185933
+Coefficients: 
+   Congruency: 0.2665646937069833
+   Response: -0.037495460523394246
+   Previous Congruency: -0.35244462734554255
+   Previous Response: -0.3750511604693077
+Confusion Matrix:  [[19, 15], [15, 28]]
+
+SUBJECT #56.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5064935064935064
+Intercept:  0.004522150314917743
+Coefficients: 
+   Congruency: 0.03202975787458627
+   Response: 0.043908092953763404
+   Previous Congruency: -0.003533320537230204
+   Previous Response: -0.0796187968323812
+Confusion Matrix:  [[16, 23], [15, 23]]
+
+SUBJECT #57.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6027397260273972
+Intercept:  1.8077599737597044e-05
+Coefficients: 
+   Congruency: -1.4144394986130082e-05
+   Response: 6.513243033670347e-06
+   Previous Congruency: 9.616229166395291e-05
+   Previous Response: 0.00013346965471453966
+Confusion Matrix:  [[0, 29], [0, 44]]
+
+SUBJECT #58.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5352112676056338
+Intercept:  -0.001328327147207291
+Coefficients: 
+   Congruency: -0.0057390205918471235
+   Response: 0.002726023770924099
+   Previous Congruency: 0.005459571532126809
+   Previous Response: 0.0017616581740545298
+Confusion Matrix:  [[10, 12], [21, 28]]
+
+SUBJECT #59.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5915492957746479
+Intercept:  -0.0001251555099694535
+Coefficients: 
+   Congruency: -6.964158959434663e-05
+   Response: 0.00013964013861699552
+   Previous Congruency: 0.00020498583685131096
+   Previous Response: 9.177171253873587e-05
+Confusion Matrix:  [[8, 7], [22, 34]]
+
+SUBJECT #60.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6153846153846154
+Intercept:  -0.5409554711937912
+Coefficients: 
+   Congruency: 0.9319995542303864
+   Response: -0.07283175411683128
+   Previous Congruency: 0.24195834439046704
+   Previous Response: 0.5390838275374039
+Confusion Matrix:  [[16, 14], [16, 32]]
+
+SUBJECT #61.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5657894736842105
+Intercept:  1.025334864119026
+Coefficients: 
+   Congruency: -0.3595055219593004
+   Response: -0.9318257352465579
+   Previous Congruency: -1.1967971587155661
+   Previous Response: -0.5049095617576347
+Confusion Matrix:  [[22, 9], [24, 21]]
+
+SUBJECT #62.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5454545454545454
+Intercept:  -0.016294715388350624
+Coefficients: 
+   Congruency: 0.030763217882145834
+   Response: 0.006896828083147081
+   Previous Congruency: 0.026313483057398983
+   Previous Response: -0.014542371885481306
+Confusion Matrix:  [[25, 21], [14, 17]]
+
+SUBJECT #63.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6176470588235294
+Intercept:  0.0350523170377364
+Coefficients: 
+   Congruency: -0.0883659553647797
+   Response: -0.09802190396594643
+   Previous Congruency: 0.12011570474715512
+   Previous Response: -0.02543316873811217
+Confusion Matrix:  [[18, 12], [14, 24]]
+
+SUBJECT #64.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.676056338028169
+Intercept:  -0.355517295953787
+Coefficients: 
+   Congruency: 0.07395339980266258
+   Response: 0.9276030818251144
+   Previous Congruency: -0.020318391371640376
+   Previous Response: 0.07374499702613377
+Confusion Matrix:  [[27, 13], [10, 21]]
+
+SUBJECT #65.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6103896103896104
+Intercept:  0.00013582586391542117
+Coefficients: 
+   Congruency: 0.00012290370311125062
+   Response: -0.00021297505756107043
+   Previous Congruency: -3.200663051047135e-05
+   Previous Response: -2.245983799891716e-05
+Confusion Matrix:  [[11, 22], [8, 36]]
+
+SUBJECT #66.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6027397260273972
+Intercept:  0.00012637206546698996
+Coefficients: 
+   Congruency: -3.745155557912998e-05
+   Response: -7.566871838742394e-05
+   Previous Congruency: -0.00015774912199823727
+   Previous Response: 0.00010369901283484706
+Confusion Matrix:  [[9, 20], [9, 35]]
+
+SUBJECT #67.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.589041095890411
+Intercept:  0.00010384069230205478
+Coefficients: 
+   Congruency: 4.020574946949295e-05
+   Response: 0.00015639441208502454
+   Previous Congruency: -0.0003095634057484899
+   Previous Response: 6.352362750423866e-05
+Confusion Matrix:  [[13, 16], [14, 30]]
+
+SUBJECT #68.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5915492957746479
+Intercept:  2.6056850572703805e-05
+Coefficients: 
+   Congruency: -0.00010912982247846208
+   Response: 0.0002426763457350625
+   Previous Congruency: -8.41751537342666e-05
+   Previous Response: -1.1942532305458575e-05
+Confusion Matrix:  [[13, 16], [13, 29]]
+
+SUBJECT #69.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5147058823529411
+Intercept:  0.00019044188265552497
+Coefficients: 
+   Congruency: -6.959346860699547e-05
+   Response: 2.293879980937621e-05
+   Previous Congruency: 1.825040070552615e-05
+   Previous Response: -0.0001099359175874913
+Confusion Matrix:  [[0, 33], [0, 35]]
+
+SUBJECT #70.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5571428571428572
+Intercept:  -1.0199182466465782
+Coefficients: 
+   Congruency: 0.7172423363841806
+   Response: 1.13038156510959
+   Previous Congruency: 0.6890727682905209
+   Previous Response: 0.4557904865577216
+Confusion Matrix:  [[22, 23], [8, 17]]
+
+SUBJECT #71.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6133333333333333
+Intercept:  -0.049633037388388236
+Coefficients: 
+   Congruency: -0.024088213848251164
+   Response: 0.08019970530136313
+   Previous Congruency: 0.06752687433048993
+   Previous Response: 0.026881356568602743
+Confusion Matrix:  [[21, 15], [14, 25]]
+
+SUBJECT #73.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6056338028169014
+Intercept:  0.11179920190273089
+Coefficients: 
+   Congruency: -0.2057187591202443
+   Response: -0.5236743302859048
+   Previous Congruency: 0.18415752366256152
+   Previous Response: 0.1654253324187103
+Confusion Matrix:  [[20, 16], [12, 23]]
+
+SUBJECT #74.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6571428571428571
+Intercept:  0.00010917300198749969
+Coefficients: 
+   Congruency: -6.852225437918004e-05
+   Response: 9.271697032675587e-05
+   Previous Congruency: 1.2143726337275455e-05
+   Previous Response: 3.641848041403285e-05
+Confusion Matrix:  [[0, 24], [0, 46]]
+
+SUBJECT #75.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.7183098591549296
+Intercept:  0.05575608663513172
+Coefficients: 
+   Congruency: -0.9038723054439323
+   Response: 2.046717253076921
+   Previous Congruency: -0.42351660650820416
+   Previous Response: -0.4654847605648622
+Confusion Matrix:  [[21, 9], [11, 30]]
+
+SUBJECT #76.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6338028169014085
+Intercept:  0.31432241888018375
+Coefficients: 
+   Congruency: -0.6240729053012177
+   Response: 0.4424631979019632
+   Previous Congruency: -0.020038207644126366
+   Previous Response: -0.6139886308020481
+Confusion Matrix:  [[21, 8], [18, 24]]
+
+SUBJECT #77.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5774647887323944
+Intercept:  -1.000315970324285
+Coefficients: 
+   Congruency: 0.3980088440145711
+   Response: 0.30189953494977584
+   Previous Congruency: 1.4661131809407246
+   Previous Response: 0.8805440051281432
+Confusion Matrix:  [[14, 7], [23, 27]]
+
+SUBJECT #78.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5974025974025974
+Intercept:  0.28655111497486196
+Coefficients: 
+   Congruency: -0.6073216327524883
+   Response: -0.23749622335951306
+   Previous Congruency: 0.453119666459945
+   Previous Response: -0.4101663883101194
+Confusion Matrix:  [[18, 9], [22, 28]]
+
+SUBJECT #79.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5540540540540541
+Intercept:  0.001227677092774027
+Coefficients: 
+   Congruency: -0.06473180843684037
+   Response: 0.050758398578233395
+   Previous Congruency: 0.0690692597842706
+   Previous Response: -0.03964699582732084
+Confusion Matrix:  [[17, 19], [14, 24]]
+
+SUBJECT #80.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6805555555555556
+Intercept:  -1.134762939459047
+Coefficients: 
+   Congruency: 0.0006445286193167747
+   Response: 2.349505797016221
+   Previous Congruency: -0.27879239778643294
+   Previous Response: 1.1832731914976276
+Confusion Matrix:  [[25, 15], [8, 24]]
+
+SUBJECT #81.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.6056338028169014
+Intercept:  0.9039192509841741
+Coefficients: 
+   Congruency: -0.7658936956922678
+   Response: -0.925468251134851
+   Previous Congruency: -0.5005888545758211
+   Previous Response: -0.5222705107793493
+Confusion Matrix:  [[31, 14], [14, 12]]
+
+SUBJECT #82.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5866666666666667
+Intercept:  -0.06795803940970652
+Coefficients: 
+   Congruency: 0.17501399769666143
+   Response: -0.016599659813362245
+   Previous Congruency: -0.22020334856428858
+   Previous Response: 0.22999705354908423
+Confusion Matrix:  [[31, 22], [9, 13]]
+
+SUBJECT #83.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.7027027027027027
+Intercept:  -0.0468148402716894
+Coefficients: 
+   Congruency: -0.08032147704620948
+   Response: 0.20678931167091152
+   Previous Congruency: -0.03955353350972953
+   Previous Response: 0.04011979324235912
+Confusion Matrix:  [[29, 13], [9, 23]]
+
+SUBJECT #84.0
+Logistic Regression with Cross Validation
+Accuracy Score:  0.5303030303030303
+Intercept:  -0.00012827334094056577
+Coefficients: 
+   Congruency: 8.943801522254515e-05
+   Response: 5.383401617780439e-05
+   Previous Congruency: -2.103610968138694e-05
+   Previous Response: -5.652778658461813e-05
+Confusion Matrix:  [[35, 0], [31, 0]]
+
+Subjects for which the Logistic Regression either predicted
+the subject was always accuaracte or always inaccurate:
+[17.0, 57.0, 69.0, 74.0, 84.0]
+Due to these models being biased to always pick the same end result,
+they were excluded from further study of the participant models.
+
+A T-test was conducted on the remaining subjects model accuracies
+to see if there was strong evidence that the logistic regression
+model accuracy was higher than random chance (50% accuracy)
+
+Sample Size              : 75
+Mean of Sample Accuracies: 0.612
+Standard Deviation       : 0.0569
+P Value of T-Test        : 0.0187
+
+Since the P-Value is less than 0.05, we can say these results
+are significant, and therefore there is strong evidence that our
+modeling technique predicts memory accuracy.
